@@ -23,4 +23,4 @@ Build a weather dashboard that will run in the browser for users to be able to s
 User can find deployed app at [GitHub](https://github.com/Babylex710/Weather-Dashboard)
 
 The following image shows the web application's appearance:
-![alt screenshot]()
+![alt screenshot](./assets/images/weatherDash.png)
